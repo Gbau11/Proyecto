@@ -17,7 +17,6 @@
 4. Análisis exploratorio: entender los datos y analizar outliers.
 5. Presentación.
  
-![plot](sc11.png)
 
 ### Conlusiones:
 
