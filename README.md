@@ -22,8 +22,8 @@
 
 El crecimiento económico está directamente relacionado con las emisiones de CO2, la actividad industrial y la producción de energía para el mantenimiento de cada estado son las principales fuentes de emisiones. Hay una fuerte correlación entre las dos gráficas:
 
-![plot](sc11.png)
+![plot](.Fotos/sc11.png)
 
 Otra de las conclusiones llegadas es que a pesar de que los países que más contaminación total emiten, no son los que más emisiones expulsan per cápita, ya que no es lo mismo mantener a una población de mas de 1.000 millones de personas que a menos de 500.000. Se ilustra en estos dos gráficos:
 
-![plot](Comparacion_emissions.png)
+![plot](.Fotos/Comparacion_emissions.png)
